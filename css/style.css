@@ -1,0 +1,60 @@
+body, html {
+    
+   
+}
+
+p {
+    font-size: 16px;
+}
+
+#polift_logo {
+	margin: auto;
+
+}
+
+#polift_logo_text {
+    font-size: xx-large;
+    vertical-align: center;
+}
+
+.phone_icon {
+    margin:auto;
+    width:75%;
+    height:auto;
+}
+
+.download_image {
+    width: 36%;
+    height: auto;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+     display: block;
+}
+
+.polift_link {
+    
+}
+
+.twitter_icon {
+    width:40px;
+    height:40px;
+    margin-left:30px;
+    float:right;
+}
+
+.terms_link {
+    position:absolute;
+    bottom: 0;
+    left: 30;
+}
+
+div.footer_row {
+    min-height: 40px;
+}
+
+.credit {
+    padding-bottom:22px;
+}
